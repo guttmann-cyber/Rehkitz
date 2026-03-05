@@ -1,0 +1,7 @@
+{
+  "name": "Remix: Rehkitz-Retter Map",
+  "description": "Eine App zur Koordinierung von Rehkitz-Rettungsaktionen. Nutzer können Flächen auf einer Karte markieren und Suchanfragen mit Kontaktdaten stellen.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
